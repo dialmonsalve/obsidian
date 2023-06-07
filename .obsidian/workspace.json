@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "8fcbcc7b72ca94bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c43790af71b790f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1e4c398ef12f9e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROGRAMMING/React/100 next.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e685b10ac7361c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fae82c17a7d7086",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f70124f83c1b23f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8e614b406d29349",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1185376759414aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38cde745bc2bd70e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c94a7f5dd915987f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11410e3c2aa69aa9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROGRAMMING/React/100 next.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e708b444f801f37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PROGRAMMING/React/100 next.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "533dbefbda65de28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52263e125f406815",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PROGRAMMING/React/100 next.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f1e4c398ef12f9e9",
+  "lastOpenFiles": [
+    "PROGRAMMING/Linux/Docker/700 DockerFile.md",
+    "PROGRAMMING/Linux/Docker/Instalar en Linux mint.md"
+  ]
+}
